@@ -1,0 +1,21 @@
+s="ineurodfddfdfdfn"
+s.find('eu')
+s.count('d')
+s.split('d')  ------['ineuro', 'f', '', 'f', 'f', 'fn']
+s.upper()
+s.lower()
+s.swapcase()
+s.capitalize()
+list(reversed(s)) -------['h', 'd', 'u', 's']
+s.strip()
+s.rstrip()
+s.lstrip()
+s.replace("remove something", "add another something)")
+
+s.isupper()
+s.islower()
+s.isalnum()
+s.isdigit()
+s.isspace()
+s.startswith()
+s.endswith()
